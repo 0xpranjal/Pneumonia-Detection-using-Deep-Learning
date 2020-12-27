@@ -69,3 +69,22 @@ Train Accuracy: 82.63%
 
 
 - ### ResNet :
+
+<p align="center"><img height="350" width="700" src="Assests/resnet.png"></p>
+
+```
+624/624 [==============================] - 101s 162ms/step
+Test Accuracy: 73.40%
+652/652 [==============================] - 651s 999ms/step
+Train Accuracy: 88.92%
+```
+
+- ### InceptionNet :
+<p align="center"><img height="350" width="700" src="Assests/inceptionnet.png"></p>
+
+```
+624/624 [==============================] - 41s 66ms/step
+Test Accuracy: 76.76%
+652/652 [==============================] - 295s 453ms/step
+Train Accuracy: 91.26%
+```
