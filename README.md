@@ -54,4 +54,18 @@ Test Accuracy: 87.18%
 652/652 [==============================] - 622s 954ms/step
 Train Accuracy: 86.22%
 ```
-- ### VGG16 : 
+- ### VGG16 :
+
+<p align="center"><img height="350" width="700" src="Assests/vgg16.png"></p>
+
+<p align="center"><img height="350" width="700" src="Assests/vgg16_perf.png"></p>
+
+```
+624/624 [==============================] - 226s 363ms/step
+Test Accuracy: 66.19%
+652/652 [==============================] - 1608s 2s/step
+Train Accuracy: 82.63%
+```
+
+
+- ### ResNet :
