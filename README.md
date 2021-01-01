@@ -35,18 +35,23 @@ Accuracy of the model is -  91.98718070983887 %
 
 <p align="center"><img height="350" width="700" src="Assests/accuracy_cnn_2.png"></p>
 
+```
 624/624 [==============================] - 30s 49ms/step
 Test Accuracy: 68.91%
 652/652 [==============================] - 338s 518ms/step
 Train Accuracy: 66.33%
+```
 
 - ### DenseNet :
 
 <p align="center"><img height="350" width="700" src="Assests/densenet.png"></p>
 
+<p align="center"><img height="350" width="700" src="Assests/densenetperf.png"></p>
+
+```
 624/624 [==============================] - 132s 211ms/step
 Test Accuracy: 87.18%
 652/652 [==============================] - 622s 954ms/step
 Train Accuracy: 86.22%
-
-<p align="center"><img height="350" width="700" src="Assests/densenetperf.png"></p>
+```
+- ### VGG16 : 
