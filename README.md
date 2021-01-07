@@ -15,6 +15,10 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 <p align="center"><img height="350" width="700" src="Assests/pneumonia_train.png"  ></p>
 
 ## Model used :
+**Here is a small comparison of all the models tested in the project:**
+
+<p align="center"><img height="350" width="700" src="Assests/comparison.png"></p>
+
 - ### Convolutional Neural Network
 
 <p align="center"><img height="350" width="700" src="Assests/cnn.png"></p>
