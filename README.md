@@ -20,5 +20,10 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 <p align="center"><img height="350" width="700" src="Assests/cnn.png"></p>
 
 #### Model performance
-
+```
+624/624 [==============================] - 11s 18ms/step
+Loss of the model is -  0.30433156475042683
+624/624 [==============================] - 10s 15ms/step
+Accuracy of the model is -  91.98718070983887 %
+```
 <p align="center"><img height="350" width="700" src="Assests/model_accuracy.png"></p>
